@@ -1,12 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="15a77b54-b875-40da-a8c5-d4e70c2a3502" name="Changes" comment="" />
+    <list default="true" id="15a77b54-b875-40da-a8c5-d4e70c2a3502" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2_all_appercase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_capital_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_split_sentance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/H.W_08.02.26.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/H.W_08.02.26.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_list_str_exe.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_list_str_exe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "eyar1230-hub"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/eyar1230-hub/H.W_08.02.26.git",
+    "accountId": "c1e3e2ac-1295-47ec-9258-b4d305371414"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -15,6 +48,9 @@
   "associatedIndex": 3
 }]]></component>
   <component name="ProjectId" id="3A9wwuCWXtY20clPMRhRXHIYzlo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,9 +58,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.1_list_str_exe.executor": "Run",
+    "Python.2_all_appercase.executor": "Run",
+    "Python.3_capital_start.executor": "Run",
+    "Python.4_split_sentance.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "to.speed.mode.migration.done": "true"
   }
@@ -45,5 +87,21 @@
       <updated>1772018337940</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4_split_sentance.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
